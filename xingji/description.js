@@ -4,3 +4,7 @@ function test(){
 function runTest(){
 	test();
 }
+
+function weggle(){
+	alert("wiggle! wiggle!");
+}
