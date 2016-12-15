@@ -1,0 +1,5 @@
+happy 
+angry
+doubt
+sad
+afraid
